@@ -23,7 +23,6 @@ Getting Started
 To work on the sample code, you'll need to clone your project's repository to your
 local computer. If you haven't, do that first. You can find instructions in the
 AWS CodeStar user guide.
-dfigkjfgsigjsgslk
 
 Before registering your custom Alexa skill in the
 [Amazon Developer Portal](https://developer.amazon.com), you can manually test
