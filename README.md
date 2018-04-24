@@ -8,7 +8,7 @@ What's Here
 -----------
 
 This sample includes:
-sdfks;dlfkgsdl;fkgsldfg
+dmfn.,sdfm.sd,f
 
 * README.md - this file
 * buildspec.yml - This YAML file is used by AWS CodeBuild to create an artifact
